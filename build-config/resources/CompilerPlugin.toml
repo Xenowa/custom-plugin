@@ -1,0 +1,5 @@
+[plugin]
+class = "org.custom.customanalyzer.CustomStaticCodeAnalyzer"
+
+[[dependency]]
+path = "../build/libs/custom-plugin-@toml.version@.jar"

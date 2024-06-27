@@ -1,0 +1,5 @@
+[package]
+org = "tharanawanigaratne"
+name = "customanalyzer"
+version = "@toml.version@"
+distribution = "@toml.distribution@"

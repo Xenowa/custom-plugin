@@ -1,0 +1,13 @@
+# Compiled class file
+*.class
+
+# Package Files
+*.jar
+
+# Gradle
+.gradle
+!gradle/wrapper/gradle-wrapper.jar
+build/
+
+# IntelliJ IDEA
+.idea/
